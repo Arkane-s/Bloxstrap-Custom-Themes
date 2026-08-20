@@ -1,0 +1,153 @@
+<!-- CREDITS :
+Green Link Cheerleader sighrelief : https://emoji.gg/emoji/108416-linkcheerleadergreen
+Red Link Cheerleader by sighrelief : https://emoji.gg/emoji/198687-linkcheerleaderred
+Blue Link Cheerleader sighrelief : https://emoji.gg/emoji/25209-linkcheerleaderblue
+Tuff Link by Astérion : https://emoji.gg/emoji/7420_not_zelda
+Pixelized Triforce by makalawizard : https://emoji.gg/emoji/4412_loz_triforce
+Dancing Noïa by ƒℓυƒƒуMΛDραη∂α : https://emoji.gg/user/fluffym4dp4nd4
+Main Background : https://i.pinimg.com/736x/00/35/f7/0035f7d4930bcb380a62fdd0cdde05c9.jpg
+Second Background : https://primewikis.com/wp-content/uploads/wallpaperflare.com_wallpaper-1620x800.jpg
+Third Background : https://wallpapercave.com/wp/wp3277370.jpg -->
+
+<BloxstrapCustomBootstrapper Version="1" Height="504" Width="896" Theme="Dark" IgnoreTitleBarInset="True" WindowCornerPreference="Round">
+	
+	<TitleBar 
+		Title="" 
+		ShowMinimize="false"
+		ShowClose="True"
+		Visibility="Visible"
+	/>
+	
+<!-- Set the visibility to "Visible" to see this background (or "Hidden" to hide it) -->
+	<Image 
+		Source="theme://MainBGImg.png"
+		Stretch="UniformToFill" 
+		HorizontalAlignment="Center"
+		Visibility="Visible"
+	/>
+	
+<!-- Set the visibility to "Visible" to see this background (or "Hidden" to hide it) -->
+	<Image
+		Source="theme://BGImg2.png"
+		Stretch="UniformToFill"
+		HorizontalAlignment="Center"
+		Visibility="Hidden"
+	/>
+	
+<!-- Set the visibility to "Visible to see this background (or "Hidden" to hide it) -->
+	<Image
+		Source="theme://BGImg3.png"
+		Stretch="UniformToFill"
+		HorizontalAlignment="Center"
+		Visibility="Hidden"
+	/>
+
+	<Border Background="#20000000" Height="100"  Width="310" HorizontalAlignment="Left" VerticalAlignment="Bottom" CornerRadius="0,40,0,0" BorderThickness="4.5" BorderBrush="#3300FF00" Margin="-3,0,0,-3">
+
+	<TextBlock 
+			Name="LoadingBar" 
+			Text="LOADING"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Bottom"
+			Margin="40,0,0,40" 
+			FontFamily="Verdana"
+			FontWeight="Bold" 
+			FontSize="40" 
+			Foreground="#00B7FF"
+		/>
+</Border>
+
+	<TextBlock
+		Name="LoadingBar2"
+		Text="Loading in progress..."
+		HorizontalAlignment="Left"
+		VerticalAlignment="Bottom"
+		Margin="32,0,0,10"
+		FontFamily="Verdana"
+		FontWeight="Bold"
+		FontSize="20"
+		Foreground="#00B7FF"
+	/>
+
+<!-- Set the visibility to "Visible to see this mini GIF (or "Hidden" to hide it) -->
+	<Image 
+		Source="theme://MainMiniGIFgreen.gif" 
+		IsAnimated="True"
+		Width="160" 
+		Height="160" 
+		HorizontalAlignment="Right" 
+		VerticalAlignment="Bottom"
+		Margin="0,0,50,25"
+		Visibility="Visible"
+	/>
+	
+<!-- Set the visibility to "Visible to see this mini GIF (or "Hidden" to hide it) -->
+	<Image 
+		Source="theme://MiniGIFred.gif" 
+		IsAnimated="True"  
+		Width="160" 
+		Height="160" 
+		HorizontalAlignment="Right" 
+		VerticalAlignment="Bottom"
+		Margin="0,0,50,25"
+		Visibility="Hidden"
+	/>
+	
+<!-- Set the visibility to "Visible to see this mini GIF (or "Hidden" to hide it) -->
+	<Image 
+		Source="theme://MiniGIFblue.gif" 
+		IsAnimated="True"  
+		Width="160" 
+		Height="160" 
+		HorizontalAlignment="Right" 
+		VerticalAlignment="Bottom"
+		Margin="0,0,50,25"
+		Visibility="Hidden"
+	/>
+<!-- Set the visibility to "Visible to see this mini GIF (or "Hidden" to hide it) -->
+	<Image
+		Source="theme://TuffLink.gif"
+		IsAnimated="True"
+		Width="120"
+		Height="120"
+		HorizontalAlignment="Right"
+		VerticalAlignment="Bottom"
+		Margin="0,0,50,25"
+		Visibility="Hidden"
+	/>
+	
+<!-- Set the visibility to "Visible to see this mini GIF (or "Hidden" to hide it) -->
+	<Image
+		Source="theme://PIXtriforceImg.png"
+		IsAnimated="True"
+		Width="110"
+		Height="110"
+		HorizontalAlignment="Right"
+		VerticalAlignment="Bottom"
+		Margin="0,0,50,25"
+		Visibility="Hidden"
+	/>
+	
+<!-- Set the visibility to "Visible to see this mini GIF (or "Hidden" to hide it) -->
+	<Image
+		Source="theme://DancingNoïa.gif"
+		IsAnimated="True"
+		Width="200"
+		Height="200"
+		HorizontalAlignment="Right"
+		VerticalAlignment="Bottom"
+		Margin="0,0,35,10"
+		Visibility="Hidden"
+	/>
+	
+	<ProgressBar 
+		Height="8"
+		Name="PrimaryProgressBar"
+		VerticalAlignment="Bottom" 
+		HorizontalAlignment="Left"
+		Width="890" 
+		Foreground="#00B7FF"
+		Background="#20000000"
+	/>
+
+</BloxstrapCustomBootstrapper>
