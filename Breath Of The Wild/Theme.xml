@@ -130,7 +130,7 @@ Third Background : https://wallpapercave.com/wp/wp3277370.jpg -->
 	
 <!-- Set the visibility to "Visible to see this mini GIF (or "Hidden" to hide it) -->
 	<Image
-		Source="theme://DancingNoïa.gif"
+		Source="theme://DancingHestu.gif"
 		IsAnimated="True"
 		Width="200"
 		Height="200"
