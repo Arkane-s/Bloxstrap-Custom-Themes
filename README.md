@@ -10,6 +10,12 @@ https://github.com/bloxstraplabs/bloxstrap/releases
 
 https://bloxstraplabs.com
 
+# Bloxstrap's Discord Server
+https://discord.com/invite/nKjV3mGq6R
+
+# Other Themes
+**I recommend you to check out @DefNotAltAcc's repositery (https://github.com/DefNotAltAcc/Bloxstrap-Themes-Collection). They make really good themes.**
+
 # Installation :
 1. Download the .zip file from the theme you want
 
@@ -38,3 +44,16 @@ https://bloxstraplabs.com
 6. Select the desired file and enjoy your new Bloxstrap loading theme!
 
 <img width="107" height="27" alt="File" src="https://github.com/user-attachments/assets/211ed1c2-b775-4364-841f-d827e50bd934" />
+
+
+# Previews
+
+
+# Breath Of The Wild
+
+https://github.com/user-attachments/assets/fc55e9e6-89a7-4083-809c-902128b18e30
+
+
+# Cuphead
+
+https://github.com/user-attachments/assets/79f2badc-379b-4ea5-988f-a2f28c9c1972
