@@ -2,19 +2,19 @@
 A custom themes collection for bloxstrap (just want to make simple things)
 
 # Downloading Bloxstrap :
-The only official places to download Bloxstrap are <a href=https://github.com/bloxstraplabs/bloxstrap>GitHub</a> and https://bloxstraplabs.com. Any other websites offering downloads or claiming to be Bloxstrap are not owned by them.
+The only official places to download Bloxstrap are <a href=https://github.com/bloxstraplabs/bloxstrap>GitHub</a> and <a href=https://bloxstraplabs.com>Bloxstraplabs</a>. Any other websites offering downloads or claiming to be Bloxstrap are not owned by them.
 
 **Download Links**
 
-https://github.com/bloxstraplabs/bloxstrap/releases
+<a href=https://github.com/bloxstraplabs/bloxstrap/releases>GitHub</a>
 
-https://bloxstraplabs.com
+<a href=https://bloxstraplabs.com/download>Bloxstraplabs</a>
 
 # Bloxstrap's Discord Server
 https://discord.com/invite/nKjV3mGq6R
 
 # Other Themes
-**I recommend you to check out @DefNotAltAcc's repositery (https://github.com/DefNotAltAcc/Bloxstrap-Themes-Collection). They make really good themes.**
+**I recommend you to check out <a href=https://github.com/DefNotAltAcc>@DefNotAltAcc</a>'s repositery (<a href=https://github.com/DefNotAltAcc/Bloxstrap-Themes-Collection>Here!</a>). They make really good themes.**
 
 # Installation :
 1. Download the .zip file from the theme you want
@@ -57,3 +57,8 @@ https://github.com/user-attachments/assets/fc55e9e6-89a7-4083-809c-902128b18e30
 # Cuphead
 
 https://github.com/user-attachments/assets/79f2badc-379b-4ea5-988f-a2f28c9c1972
+
+
+# ULTRAKILL
+
+https://github.com/user-attachments/assets/c452abf2-1ba4-41a5-b419-d503bfe8a51e
