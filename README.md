@@ -2,7 +2,7 @@
 A custom themes collection for bloxstrap (just want to make simple things)
 
 # Downloading Bloxstrap :
-The only official places to download Bloxstrap are https://github.com/bloxstraplabs/bloxstrap and https://bloxstraplabs.com. Any other websites offering downloads or claiming to be Bloxstrap are not owned by them.
+The only official places to download Bloxstrap are <a href=https://github.com/bloxstraplabs/bloxstrap>GitHub</a> and https://bloxstraplabs.com. Any other websites offering downloads or claiming to be Bloxstrap are not owned by them.
 
 **Download Links**
 
