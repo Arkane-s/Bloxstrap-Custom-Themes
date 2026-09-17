@@ -1,6 +1,8 @@
 # Bloxstrap-Custom-Themes
 A custom themes collection for bloxstrap (just want to make simple things)
 
+<br>
+
 # Downloading Bloxstrap :
 The only official places to download Bloxstrap are <a href=https://github.com/bloxstraplabs/bloxstrap>GitHub</a> and <a href=https://bloxstraplabs.com>Bloxstraplabs</a>. Any other websites offering downloads or claiming to be Bloxstrap are not owned by them.
 
@@ -8,31 +10,48 @@ The only official places to download Bloxstrap are <a href=https://github.com/bl
 
 <a href=https://github.com/bloxstraplabs/bloxstrap/releases>github.com</a>
 
-<a href=https://bloxstraplabs.com/download>bloxstraplabs.com</a>
+<a href=https://bloxstraplabs.com>bloxstraplabs.com</a>
+
+<br>
 
 # Bloxstrap's Discord Server
 https://discord.com/invite/nKjV3mGq6R
 
+<br>
+
 # Other Themes
 **I recommend you to check out <a href=https://github.com/DefNotAltAcc>@DefNotAltAcc</a>'s repositery (<a href=https://github.com/DefNotAltAcc/Bloxstrap-Themes-Collection>Here!</a>). They make really good themes.**
+
+<br>
 
 # Installation :
 1. Download the .zip file from the theme you want
 
 <img width="1473" height="282" alt="Download" src="https://github.com/user-attachments/assets/a1b6b79b-d7c6-4361-b7f1-6483cfa426a1" />
 
+<br>
+<br>
+<br>
 
 2. Go to Bloxstrap Menu > Configure Settings > Appearance
+
+<br>
 
 3. Set the Bootsraper style to "Custom"
 
 <img width="872" height="485" alt="Custom" src="https://github.com/user-attachments/assets/6801ce67-277b-4807-ba03-bb5ea294d6c7" />
 
+<br>
+<br>
+<br>
 
 4. Create a new theme (name it whatever you want)
 
 <img width="1230" height="713" alt="NewTheme" src="https://github.com/user-attachments/assets/9c3495f3-febd-47e3-a461-19e8ba872e3a" />
 
+<br>
+<br>
+<br>
 
 5. Click "Import" then "Import New File"
 
@@ -40,25 +59,34 @@ https://discord.com/invite/nKjV3mGq6R
 
 <img width="588" height="277" alt="FileImport" src="https://github.com/user-attachments/assets/5f0f8fa5-f9db-4dac-8ac3-d49904ca68d7" />
 
+<br>
+<br>
+<br>
 
 6. Select the desired file and enjoy your new Bloxstrap loading theme!
 
 <img width="107" height="27" alt="File" src="https://github.com/user-attachments/assets/211ed1c2-b775-4364-841f-d827e50bd934" />
 
+<br>
+<br>
+<br>
 
 # Previews
 
+<br>
 
 # Breath Of The Wild
 
 https://github.com/user-attachments/assets/fc55e9e6-89a7-4083-809c-902128b18e30
 
+<br>
 
 # Cuphead
 
 https://github.com/user-attachments/assets/79f2badc-379b-4ea5-988f-a2f28c9c1972
 
+<br>
 
-# ULTRAKILL
+# ULTRAKILL 1
 
 https://github.com/user-attachments/assets/c452abf2-1ba4-41a5-b419-d503bfe8a51e
