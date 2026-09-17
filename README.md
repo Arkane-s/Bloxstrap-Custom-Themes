@@ -6,9 +6,9 @@ The only official places to download Bloxstrap are <a href=https://github.com/bl
 
 **Download Links**
 
-<a href=https://github.com/bloxstraplabs/bloxstrap/releases>GitHub</a>
+<a href=https://github.com/bloxstraplabs/bloxstrap/releases>github.com</a>
 
-<a href=https://bloxstraplabs.com/download>Bloxstraplabs</a>
+<a href=https://bloxstraplabs.com/download>bloxstraplabs.com</a>
 
 # Bloxstrap's Discord Server
 https://discord.com/invite/nKjV3mGq6R
